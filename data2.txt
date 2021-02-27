@@ -1,0 +1,3 @@
+Name: Eddie
+Age: 27
+Favourite Colour: Blue
